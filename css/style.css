@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&displ');
+
+body{
+    font-family: 'Roboto Slab', serif;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: rgb(148, 23, 23);
+
+}
